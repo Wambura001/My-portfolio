@@ -5,3 +5,6 @@ h1 {
 img {
   float: right;
 }
+.list {
+  line-height: 40px;
+}
