@@ -19,11 +19,30 @@ h4 {
 }
 
 body {
-    background-color: rgb(134, 151, 165);
-    margin: 3cm;
-    font-size: large;
+    background-color: rgb(180, 172, 152);
 }
 
 .project {
-    height: 250px;
+    margin: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+.navbar {
+    background-color: burlywood;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.navbar li {
+    list-style-type: none;
+    display: inline;
 }
